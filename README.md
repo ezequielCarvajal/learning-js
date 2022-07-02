@@ -1,2 +1,2 @@
 # learning-js
-basic concepts about JS
+basics concepts about JS
